@@ -1,0 +1,3 @@
+[submodule "proj-sub1"]
+	path = proj-sub1
+	url = git@github.com:apollo8900/proj-sub1.git
