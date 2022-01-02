@@ -1,3 +1,6 @@
 [submodule "proj-sub1"]
 	path = proj-sub1
 	url = git@github.com:apollo8900/proj-sub1.git
+[submodule "proj-sub2"]
+	path = proj-sub2
+	url = git@github.com:apollo8900/proj-sub2.git
